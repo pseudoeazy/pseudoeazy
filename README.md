@@ -43,3 +43,7 @@ Here are some ideas to get you started:
 
 <br />
 <br />
+
+---
+
+[![Israel's GitHub stats](https://github-readme-stats.vercel.app/api?username=pseudoeazy)](https://github.com/anuraghazra/github-readme-stats)
