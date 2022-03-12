@@ -46,4 +46,8 @@ Here are some ideas to get you started:
 
 ---
 
-[![Israel's GitHub stats](https://github-readme-stats.vercel.app/api?username=pseudoeazy)](https://github.com/anuraghazra/github-readme-stats)
+[![Israel's GitHub stats](https://github-readme-stats.vercel.app/api?username=pseudoeazy)](https://github.com/pseudoeazy/github-readme-stats)
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pseudoeazy)](https://github.com/pseudoeazy/github-readme-stats)
