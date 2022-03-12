@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 🥅 2022 Goals: Learn more about web3
 - 👯 I’m looking to collaborate with other developers
 - ⚡ Fun fact: I can't swim 😄
-<!-->
+<!--
 - 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
   -->
