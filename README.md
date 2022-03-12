@@ -23,6 +23,16 @@ Here are some ideas to get you started:
 
 <br />
 
+---
+
+[![Israel's GitHub stats](https://github-readme-stats.vercel.app/api?username=pseudoeazy)](https://github.com/pseudoeazy/github-readme-stats)
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pseudoeazy)](https://github.com/pseudoeazy/github-readme-stats)
+
+<br />
+<br />
 ### Languages and Tools:
 
 <img  style="display:inline-block;margin-right:10px;"  alt="Visual Studio"  src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
@@ -40,14 +50,3 @@ Here are some ideas to get you started:
 
 <img  style="display:inline-block;margin-right:10px;"  alt="MongoDB"  src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img  style="display:inline-block;margin-right:10px;"  alt="MySQL"  src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-
-<br />
-<br />
-
----
-
-[![Israel's GitHub stats](https://github-readme-stats.vercel.app/api?username=pseudoeazy)](https://github.com/pseudoeazy/github-readme-stats)
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pseudoeazy)](https://github.com/pseudoeazy/github-readme-stats)
