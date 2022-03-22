@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 ## I'm a Technical Writer and Developer
 
-- 🔭 I’m currently working on [Gosheny](https://gosheny-frontend.vercel.app)
+- 🔭 I’m currently working on Dapps
 - 🌱 I’m currently learning Solidity
 - 🥅 2022 Goals: Learn more about web3 and write more articles.
 - 👯 I’m looking to collaborate with other developers
