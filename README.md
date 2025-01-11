@@ -5,10 +5,6 @@
 Here are some ideas to get you started:
 -->
 
-## Web Developer
-
-- 👯 I’m looking to collaborate with other developers
-
 ### Connect with me:
 
 <a href="https://twitter.com/pseudoeazy"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
