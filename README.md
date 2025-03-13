@@ -1,4 +1,4 @@
-### Hi there, I'm Israel - aka eazy 👋
+### Hi there, I'm Chibuzor - aka pseudoeazy 👋
 
 <!--
 **pseudoeazy/pseudoeazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
